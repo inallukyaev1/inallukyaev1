@@ -30,7 +30,7 @@ Frontend Devoloper
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/inallukyaev1/badges/large)
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
