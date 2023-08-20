@@ -27,6 +27,9 @@ Frontend Devoloper
  
 </p>
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/inallukyaev1/badges/large)
 ### Badges
 
 <b>Top Repositories</b>
