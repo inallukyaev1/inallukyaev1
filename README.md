@@ -19,10 +19,12 @@ Frontend Devoloper
 </p>
 
 
-### Socials
+### Contact me
 
-<p align="left"><a href='https://t.me/InalLukyaev'><img alt='Telegram' width='32px' src='https://raw.githubusercontent.com/vladislav149/vladislav149/main/telegram.svg'/></a> <a href="https://discord.com/users/inallukyaev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com//inallukyaev1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
- 
+<p>
+  <a href='https://t.me/InalLukyaev'><img alt='Telegram' width='32px' height ='32px' src='https://raw.githubusercontent.com/vladislav149/vladislav149/main/telegram.svg'/></a>
+ <a href="https://discord.com/users/inallukyaev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a>
+ <a href='mailto:lukyaevinal@gmail.com'><img alt='Mail' width='32px' height ='25px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png'/></a>
 </p>
 
 
