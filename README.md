@@ -30,8 +30,15 @@ Frontend Devoloper
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/inallukyaev1/badges/large)
-### Badges
+### ⚙️ GitHub статистика:
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=inallukyaev1&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inallukyaev1&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
