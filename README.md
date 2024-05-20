@@ -1,4 +1,4 @@
-Hi 👋 My name is Inal Lukyaev
+Hi 👋 My name is Lukyaev Inal 
 =============================
 
 Frontend Devoloper
